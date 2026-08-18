@@ -1,1 +1,14 @@
-
+{
+  "packages": [
+    {
+      "id": "havacilik",
+      "title": "Havacılık Kelimeleri",
+      "description": "Uçaklar, havaalanları ve pilotluk ile ilgili temel terimler",
+      "category": "Havacılık",
+      "wordCount": 2,
+      "file": "packages/havacilik.json",
+      "isPremium": false,
+      "unlockCode": null
+    }
+  ]
+}

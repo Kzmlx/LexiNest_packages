@@ -19,6 +19,16 @@
       "file": "packages/people_and_family.json",
       "isPremium": false,
       "unlockCode": null
+    },
+    {
+      "id": "verbs_basic",
+      "title": "Basit Fiiller",
+      "description": "Temel ingilizce fiiller",
+      "category": "Genel",
+      "wordCount": 150,
+      "file": "packages/basic_verbs.json",
+      "isPremium": false,
+      "unlockCode": null
     }
   ]
 }

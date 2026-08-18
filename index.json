@@ -22,11 +22,41 @@
     },
     {
       "id": "verbs_basic",
-      "title": "Basit Fiiller",
-      "description": "Temel ingilizce fiiller",
-      "category": "Genel",
+      "title": "Temel İngilizce Fiiller",
+      "description": "A1-A2 seviyesinde günlük İngilizcede en sık kullanılan temel fiiller",
+      "category": "Fiiller",
       "wordCount": 150,
-      "file": "packages/basic_verbs.json",
+      "file": "packages/verbs_basic.json",
+      "isPremium": false,
+      "unlockCode": null
+    },
+    {
+      "id": "verbs_advanced",
+      "title": "İleri Seviye Fiiller",
+      "description": "B1-B2 seviyesinde İngilizce öğrenenler için akademik, profesyonel ve günlük kullanımda önemli fiiller",
+      "category": "Fiiller",
+      "wordCount": 150,
+      "file": "packages/verbs_advanced.json",
+      "isPremium": false,
+      "unlockCode": null
+    },
+    {
+      "id": "verbs_phrasal",
+      "title": "Phrasal Verbs",
+      "description": "Get up, take off, look for, give up gibi günlük İngilizcede sık kullanılan phrasal verbler",
+      "category": "Fiiller",
+      "wordCount": 150,
+      "file": "packages/verbs_phrasal.json",
+      "isPremium": false,
+      "unlockCode": null
+    },
+    {
+      "id": "verbs_irregular",
+      "title": "Düzensiz Fiiller",
+      "description": "İngilizcede en önemli düzensiz fiiller. V1, V2 ve V3 halleriyle birlikte öğrenme paketi",
+      "category": "Fiiller",
+      "wordCount": 150,
+      "file": "packages/verbs_irregular.json",
       "isPremium": false,
       "unlockCode": null
     }

@@ -8,8 +8,8 @@
       "wordCount": 2,
       "file": "packages/havacilik.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 2
+      "unlockCode": null,
+      "version": 1
     },
     {
       "id": "people_and_family",
@@ -19,8 +19,8 @@
       "wordCount": 150,
       "file": "packages/people_and_family.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 0.0.1
+      "unlockCode": null,
+      "version": 1
     },
     {
       "id": "verbs_basic",
@@ -30,8 +30,8 @@
       "wordCount": 150,
       "file": "packages/verbs_basic.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 0.0.1
+      "unlockCode": null,
+      "version": 1
     },
     {
       "id": "verbs_advanced",
@@ -41,8 +41,8 @@
       "wordCount": 150,
       "file": "packages/verbs_advanced.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 0.0.1
+      "unlockCode": null,
+      "version": 1
     },
     {
       "id": "verbs_phrasal",
@@ -52,8 +52,8 @@
       "wordCount": 150,
       "file": "packages/verbs_phrasal.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 0.0.1
+      "unlockCode": null,
+      "version": 1
     },
     {
       "id": "verbs_irregular",
@@ -63,8 +63,8 @@
       "wordCount": 150,
       "file": "packages/verbs_irregular.json",
       "isPremium": false,
-      "unlockCode": null
-      "version": 0.0.1
+      "unlockCode": null,
+      "version": 1
     }
   ]
 }

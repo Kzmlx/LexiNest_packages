@@ -9,13 +9,11 @@
       "file": "packages/havacilik.json",
       "isPremium": false,
       "unlockCode": null
-    }
-  ]
-   "packages": [
-    {  
+    },
+    {
       "id": "people_and_family",
       "title": "İnsanlar ve Aile",
-      "description": "İnsanlar ve Aile ile ilgili temel terimler",
+      "description": "İnsanlar, aile üyeleri ve sosyal ilişkiler ile ilgili temel İngilizce kelimeler ve fiiller",
       "category": "Genel",
       "wordCount": 150,
       "file": "packages/people_and_family.json",

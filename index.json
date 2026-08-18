@@ -7,8 +7,9 @@
       "category": "Havacılık",
       "wordCount": 150,
       "file": "packages/havacilik.json",
-      "isPremium": false,
-      "unlockCode": null,
+      "isPremium": true,
+      "unlockCode": "361aeca4dd9e023e2dd42c7f8dcbc16bea77f71e4a18423b39d128bf6e1eb303",
+      "version": 1
       "version": 2
     },
     {

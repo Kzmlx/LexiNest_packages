@@ -1,0 +1,51 @@
+{
+  "id": "havacilik",
+  "name": "Havacılık",
+  "words": [
+    {
+      "id": "1",
+      "type": "vocabulary",
+      "word": "airplane",
+      "v2": null,
+      "v3": null,
+      "meaning_tr": "uçak",
+      "example_sentence": "The airplane landed safely.",
+      "example_sentence_tr": "Uçak güvenli bir şekilde indi.",
+      "synonyms": ["aircraft", "plane"],
+      "antonyms": [],
+      "review_count": 0,
+      "correct_count": 0,
+      "favorite": false,
+      "note": "",
+      "level": "A2",
+      "status": "new",
+      "interval_days": 0,
+      "ease_factor": 2.5,
+      "last_reviewed": null,
+      "next_review": null
+    },
+    {
+      "id": "2",
+      "type": "verb",
+      "word": "take off",
+      "v2": "took off",
+      "v3": "taken off",
+      "meaning_tr": "havalanmak, kalkış yapmak",
+      "example_sentence": "The plane will take off in ten minutes.",
+      "example_sentence_tr": "Uçak on dakika içinde kalkış yapacak.",
+      "synonyms": [],
+      "antonyms": ["land"],
+      "review_count": 0,
+      "correct_count": 0,
+      "favorite": false,
+      "note": "",
+      "level": "B1",
+      "status": "new",
+      "interval_days": 0,
+      "ease_factor": 2.5,
+      "last_reviewed": null,
+      "next_review": null
+    }
+  ],
+  "sub_decks": []
+}

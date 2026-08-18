@@ -10,5 +10,15 @@
       "isPremium": false,
       "unlockCode": null
     }
+    {  
+      "id": "people_and_fammily",
+      "title": "İnsanlar ve Aile",
+      "description": "İnsanlar ve Aile ile ilgili temel terimler",
+      "category": "Genel",
+      "wordCount": 150,
+      "file": "packages/people_and_family.json",
+      "isPremium": false,
+      "unlockCode": null
+    }
   ]
 }
